@@ -1,0 +1,1 @@
+linear_extrude(file="mai.dxf", height=5.0, center = true);

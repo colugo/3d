@@ -1,0 +1,1 @@
+linear_extrude(file="ngoi.dxf", height=3.0, center = true);

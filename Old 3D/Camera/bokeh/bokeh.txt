@@ -1,0 +1,2 @@
+diameter = 58mm
+bokeh size = 85/1.8 = 47mm
